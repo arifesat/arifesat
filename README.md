@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifesat&label=Profile%20views&color=690eb4&style=flat" alt="arifesat" /> </p>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [IEEE ÇOMÜ Website](https://github.com/arifesat/ieee-comu)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on a website.
 
 - <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/turkeyparrot.gif" width="25"> I’m currently learning **Docker and Kubernetes**
 
