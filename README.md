@@ -2,16 +2,16 @@
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifesat&label=Profile%20views&color=690eb4&style=flat" alt="arifesat" /> </p>
+<img align=right src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=30%>
+<div>
+<div>- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/turkeyparrot.gif" width="25"> I’m currently working on Machine Learning.</div>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on a website.
+<div>- 💬 Ask me about **technical help, I know a lot about tech devices.**</div>
 
-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/turkeyparrot.gif" width="25"> I’m currently learning **Docker and Kubernetes**
+<div>- 📫 How to reach me **arif_esat@outlook.com**</div>
 
-- 💬 Ask me about **technical help, I know a lot about tech devices.**
-
-- 📫 How to reach me **arif_esat@outlook.com**
-
-- ⚡ **I love FOSS**
+<div>- ⚡ **I love FOSS**</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
