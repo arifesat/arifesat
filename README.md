@@ -6,11 +6,11 @@
 <div>
 <div>- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/turkeyparrot.gif" width="25"> I’m currently working on Machine Learning.</div>
 
-<div>- 💬 Ask me about **technical help, I know a lot about tech devices.**</div>
+<div>- 💬 Ask me about technical help, I know a lot about tech devices.</div>
 
-<div>- 📫 How to reach me **arif_esat@outlook.com**</div>
+<div>- 📫 How to reach me rif_esat@outlook.com</div>
 
-<div>- ⚡ **I love FOSS**</div>
+<div>- ⚡ I love FOSS</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
